@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" id="u0" href="https://rakko.tools/tools/129/lib/tinymce/skins/ui/oxide/content.min.css">
+        <link rel="stylesheet" type="text/css" id="u1" href="https://rakko.tools/tools/129/lib/tinymce/skins/content/default/content.min.css">
+    </head>
+    <body id="tinymce" class="mce-content-body " data-id="content" contenteditable="true" spellcheck="false">
+        <p>team コマンドの書き方</p>
+        <p>/team add &lt;team名&gt;&lt;ディスプレイネーム&gt;</p>
+        <p>prefixを追加する方法</p>
+        <p>/team add op [{"text":"&lt;name &gt;","color":"&lt;色&gt;"}]</p>
+        <p>説明</p>
+        <p>
+            &lt;name &gt;はprefixの表示名 例:[{"text":"[name]","color":"gold"}] 実際:<span style="color: rgb(230, 126, 35);" data-mce-style="color: #e67e23;">[name]</span>
+        </p>
+        <p>
+            <span style="color: rgb(230, 126, 35);" data-mce-style="color: #e67e23;">色コード表は</span>
+            <a href="https://neruha.github.io/color-list/" target="_blank" rel="noopener" data-mce-href="https://neruha.github.io/color-list/" style="font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Open Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif;" data-mce-selected="inline-boundary">こちら﻿</a>
+        </p>
+    </body>
+</html>
